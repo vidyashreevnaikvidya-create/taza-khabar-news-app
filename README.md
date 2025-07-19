@@ -16,14 +16,4 @@
 - ✅ Built-in dummy headlines for today and yesterday
 - ✅ Modular codebase (HTML + CSS + JS)
 
----
 
-## 🚀 Demo Preview
-
-📷 Screenshots coming soon...
-
-🔗 Live preview (if hosted): [Add GitHub Pages or Netlify link]
-
----
-
-## 📂 Project Structure
